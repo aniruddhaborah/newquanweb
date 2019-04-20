@@ -2,11 +2,11 @@
 # Customize Options: Must Change
 #
 # Title:
-title: "Quan Bay"
+title: Quan Bay
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "url: "https://aniruddhaborah.github.io"
+url: "https://aniruddhaborah.github.io"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
